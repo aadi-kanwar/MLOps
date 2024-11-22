@@ -1,5 +1,5 @@
 # Use a base image with the desired operating system and dependencies
-FROM python:3.9
+FROM python:3.11.9
 
 # Set the working directory in the container
 WORKDIR /DockerTrial
